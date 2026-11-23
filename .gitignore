@@ -1,0 +1,5 @@
+﻿.vs
+Igromania.Web/bin
+Igromania.Web/obj
+Igromania.Web/umbraco
+*.slnx
